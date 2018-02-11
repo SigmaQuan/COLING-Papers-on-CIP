@@ -41,7 +41,7 @@ The topic in these papers include Chinese word segmentation, part-of-speech tagg
 - **Active Learning for Chinese Word Segmentation**. [[pdf]](https://aclanthology.coli.uni-saarland.de/papers/C12-2067/c12-2067.bib) [[bib]](https://aclanthology.coli.uni-saarland.de/papers/C12-2067/c12-2067.bib)
 - **Discriminative Boosting from Dictionary and Raw Text – A Novel Approach to Build A Chinese Word Segmenter**. [[pdf]](http://www.aclweb.org/anthology/C12-2080) [[bib]](https://aclanthology.coli.uni-saarland.de/papers/C12-2080/c12-2080.bib)
 - **Unsupervised phonemic Chinese word segmentation using Adaptor Grammars**. [[pdf]](http://www.aclweb.org/anthology/C10-1060) [[bib]](https://aclanthology.coli.uni-saarland.de/papers/C10-1060/c10-1060.bib)
-- ** A Character-Based Joint Model for Chinese Word Segmentation**. [[pdf]](http://www.aclweb.org/anthology/C10-1132) [[bib]](https://aclanthology.coli.uni-saarland.de/papers/C10-1132/c10-1132.bib)
+- **A Character-Based Joint Model for Chinese Word Segmentation**. [[pdf]](http://www.aclweb.org/anthology/C10-1132) [[bib]](https://aclanthology.coli.uni-saarland.de/papers/C10-1132/c10-1132.bib)
 - **A comparison of unsupervised methods for Part-of-Speech Tagging in Chinese**. [[pdf]](http://www.aclweb.org/anthology/C10-2016) [[bib]](https://aclanthology.coli.uni-saarland.de/papers/C10-2016/c10-2016.bib)
 - **Word Lattice Reranking for Chinese Word Segmentation and Part-of-Speech Tagging**. [[pdf]](http://www.aclweb.org/anthology/C08-1049) [[bib]](https://aclanthology.coli.uni-saarland.de/papers/C08-1049/c08-1049.bib)
 - **A Method for Automatic POS Guessing of Chinese Unknown Words**. [[pdf]](http://www.aclweb.org/anthology/C08-1089) [[bib]](https://aclanthology.coli.uni-saarland.de/papers/C08-1089/c08-1089.bib)
